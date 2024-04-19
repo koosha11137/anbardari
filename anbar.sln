@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anbar", "anbar\anbar.csproj", "{456CF180-EFBB-4282-9385-11CCF13E2BDB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{9D57ACEC-8588-4854-B40F-94FC34E0D661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456CF180-EFBB-4282-9385-11CCF13E2BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456CF180-EFBB-4282-9385-11CCF13E2BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456CF180-EFBB-4282-9385-11CCF13E2BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456CF180-EFBB-4282-9385-11CCF13E2BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D57ACEC-8588-4854-B40F-94FC34E0D661}.Debug|Any CPU.ActiveCfg = Debug
+		{9D57ACEC-8588-4854-B40F-94FC34E0D661}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
